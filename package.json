@@ -1,0 +1,18 @@
+{
+    "author": "Brad Dayley",
+    "name":"censorit",
+    "version":"0.0.1",
+    "main":"censor",
+    "repository": {
+       "type": "git",
+       "url": "https://github.com/saikiran1978/censorit"
+    },
+    "keywords": [
+       "censor","censorit","psk"
+    ],
+    "dependencies": {},
+    "engines": {
+    "node": "*"
+    }
+   }
+   
